@@ -1,0 +1,490 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+  <title type="text">Reddit r/singularity</title>
+  <link rel="alternate" type="text/html" href="https://old.reddit.com"/>
+  <link rel="self" type="application/atom+xml" href="http://192.168.1.200:3001/?action=display&amp;bridge=RedditBridge&amp;context=single&amp;r=singularity&amp;f=&amp;score=&amp;d=new&amp;search=&amp;frontend=https%3A%2F%2Freddit.com&amp;format=Atom"/>
+  <icon>https://www.redditstatic.com/desktop2x/img/favicon/favicon-96x96.png</icon>
+  <logo>https://www.redditstatic.com/desktop2x/img/favicon/favicon-96x96.png</logo>
+  <id>http://192.168.1.200:3001/?action=display&amp;bridge=RedditBridge&amp;context=single&amp;r=singularity&amp;f=&amp;score=&amp;d=new&amp;search=&amp;frontend=https%3A%2F%2Freddit.com&amp;format=Atom</id>
+  <updated>2024-03-30T21:21:53+00:00</updated>
+  <author>
+    <name>RSS-Bridge</name>
+  </author>
+  <entry>
+    <title type="html">any ai i can use to put myself in pictures?</title>
+    <published>2024-03-30T21:14:39+00:00</published>
+    <updated>2024-03-30T21:14:39+00:00</updated>
+    <id>urn:sha1:98485ea6ffdb2f16e8f58eb4f9cc8858c8a58b43</id>
+    <link rel="alternate" type="text/html" href="https://reddit.com/r/singularity/comments/1brsjxg/any_ai_i_can_use_to_put_myself_in_pictures/"/>
+    <author>
+      <name>Fun_Newspaper_1903</name>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;im looking to put myself in places ive been before like skiing or just having better pictures of myself with cool back grounds. are there any image creation ai where i can throw myself into it to make pictures of myself?&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content>
+    <category term="AI"/>
+  </entry>
+  <entry>
+    <title type="html">AI is technically advancing the pace of scientific discovery already</title>
+    <published>2024-03-30T21:00:27+00:00</published>
+    <updated>2024-03-30T21:00:27+00:00</updated>
+    <id>urn:sha1:a468f898655a1b4f968a9b28237e079850ce4440</id>
+    <link rel="alternate" type="text/html" href="https://reddit.com/r/singularity/comments/1brs7r6/ai_is_technically_advancing_the_pace_of/"/>
+    <author>
+      <name>John_Locke777</name>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;I recall from Sam Altman&amp;#39;s interview with Lex Friedman that he believed a crucial point was AI doing science. &lt;/p&gt;
+
+&lt;p&gt;That is already happening, as I think every AI researcher uses Claude Opus/GPT-4 for coding already.&lt;/p&gt;
+
+&lt;p&gt;That is a significant development.&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content>
+    <category term="AI"/>
+  </entry>
+  <entry>
+    <title type="html">Love letter to eacc, which I wrote in a tub</title>
+    <published>2024-03-30T20:05:49+00:00</published>
+    <updated>2024-03-30T20:05:49+00:00</updated>
+    <id>urn:sha1:aea6f3336ff536b23640e60b37e543e4e63abb6f</id>
+    <link rel="alternate" type="text/html" href="https://reddit.com/r/singularity/comments/1brqxzs/love_letter_to_eacc_which_i_wrote_in_a_tub/"/>
+    <author>
+      <name>Key-Desk-1211</name>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;&lt;strong&gt;Love letter to e/acc or &amp;quot;The Compendium&amp;quot;&lt;/strong&gt; &lt;/p&gt;
+
+&lt;p&gt;Mar 30 2024&lt;br/&gt;
+Shower, Maida Vale, London &lt;/p&gt;
+
+&lt;p&gt;The reason why we are here is to accelerate &lt;/p&gt;
+
+&lt;p&gt;Early humanity stalled quite a lot because we had no way of capturing our gains. A human somewhere would discover that a certain mushroom was healing if properly prepared and then would die and be unable to pass that learning and observation about the outside world to another person. Another village would discover the same affect only to be razed in a war with a neighbouring clan, with all of their progress and advancements scrapped and forever hidden from the rest of humanity. Basic discoveries like flint tools, wheel barrel, animal domestication, etc. must have been learned forgotten and rediscovered thousands if not millions of times during our history. Like an endless stuttering random machine, hesitantly stepping forwards two steps, only to do one step backwards immediately, humanity prodded on slowly...very slowly moving forwards. &lt;/p&gt;
+
+&lt;p&gt;The reason why this dynamic persisted is because we had no effective means of passing the discovered information forward. At first, spoken word acted as the main storage vessel for discoveries - stories, tales, practices, were all passed down from one generation to another. A fairly lossy process, especially given that the average life span was short - 30 to 40 years. The discovery of writing and subsequently printing press allowed us to significantly improve information retention. We were now able to consolidate all of our learnings in tablets, scrolls, papers and later books that were consolidated in libraries. These libraries acted as central hubs of information storage. If a physicist, chemist or astronomer discovered some kind of truth (or created a hypothesis) about the world - that information no longer had to be passed down through stories, it could be stored and learned by other people. Thus we created a method to pass our learnings forwards in time to the subsequent generations. If you wanted to pick up on an obscure branch of organic chemistry, you no longer have to reinvent all of the science yourself - you could stand on the work (and on the shoulders) of the previous generations who lived before you and benefit from their life&amp;#39;s work. Just like the villagers benefited from the cumulative experience of the thousands of people who had died from experimental mushroom poisonings in the past. &lt;/p&gt;
+
+&lt;p&gt;In this way, AI models represent a really fascinating new wave of progress - they are both an endless library and a really helpful librarian or tutor. They contain almost the entirety of human learning and discoveries that have been made in the past in one small object (or place). They are also significantly more efficient at sharing and dissipating this information. You no longer have to go to a library and find the book and read it. You dont even have to search wikipedia or internet for that particular topic that you are interested in - you can simply converse with the AI model, as if you were talking directly to the 18th century organic chemists who had made the discovery and the model will teach you all of the intricacies and implications of a particualr scientistic concept. &lt;/p&gt;
+
+&lt;p&gt;In this sense, these models are a direct extension of all of us as human beings (or at least the best of us). Every organic chemist, every mathematician, every physicicst, philisopher, writer, biologist or author that have ever lived... Their best work, their best thinking, the cumulative experience of millions of human lives, millions of human years of living on this planet and interacting with the surrounding environment.... all condensed into a set of weights, stored on a small hardrive that can fit in a laptop. Endlessly patient, endlessly capable of teaching and mentoring the future generations. &lt;/p&gt;
+
+&lt;p&gt;When viewed from this angle, it is seems obvious that in the future we will live in a kind of symbiotic relationship between these models (lets call it The Compendium) and humanity. The Compendium will grow and be retrained and improved to capture all knowledge, written or spoken. It will also capture our understanding of the physical world - at first through watching videos to reproduce a digital representation of the world, but later by learning how to navigate the physical world through driving automation, logistical operations (moving, lifting parcels, etc.). and automated robotics. &lt;/p&gt;
+
+&lt;p&gt;In this relationship between The Compendium and humans, humans will continue to be the more fallible, temporary counter-party. We will age and die. Our children will grow up, experience new things, make new discoveries and gradually unviel new learnings about maths, physics and the universe around us. Their learnings will be recorded in articles and videos and speeches and those will in terms be added the great Compendium of humanity through the internet and the AI models that are trained on it. Later in time, our children will come to pass the the cycle will restart, endlessly repeating itself with the newest generation. &lt;/p&gt;
+
+&lt;p&gt;When viewed from a far, you can view The Compendium (or these models of the future) as the arguably the most important creations humanity has ever made and may ever make. We are passing and extremely temporary (especially on the planetary time scale), while these models and the learnings contained in them will be permanent, ever increasing and their wisdom their acuity, becoming ever more important for the future generations. &lt;/p&gt;
+
+&lt;p&gt;These models, just like the books, religious texts and libraries of the past will act as windows, as means of communicating with the generations that have been before. You could imagine that in the near future, we will be able to not only make einstein-themed chat bots, but perphaps create a very close visual and text-based representation of the person that was. If all communications and interactions are going to be digitally recorded (which they almost are even in 2024), you can see how you can easily train an AI model not to recreate, but at least to partially resemble the original thoughts of the person who invented a given topic. Imagine being able to look past in time and be able to learn, discuss and interact with any person that has previously lived, in a two directional way (not one directional like in a book). &lt;/p&gt;
+
+&lt;p&gt;From this angle, the point of humanity is clearly some kind of a journey of self discovery of the universe. We learn about what surrounds us, observe it, interact with it, understand how it works and to use it to progress our civilisation. We individually are temporary, but as a collective we are incredibly powerful and are on some kind of a technological and &lt;/p&gt;
+
+&lt;p&gt;scientific trajectory that seems almost unstoppable... or too natural occurring to be accidental. &lt;/p&gt;
+
+&lt;p&gt;At the core of the movement will lie The Compendium that will represent the best of what we have gathered and the essence of our learnings. At the front (or on the edges) of this movement will be humans, autonomous machines, algorithms, scientist, that rely on The Compendium to achieve their breakthroughs, but that also constantly give back and share their learnings, thus making The Compendium more powerful, more encompassing and useful to the future generations. &lt;/p&gt;
+
+&lt;p&gt;As many people have said recently, perhaps the real beginning singularity (or the merging of the man and the machine) did not occur with the invention of Neuralink or GPT-3, but rather with the invention of writing or printing press. GPT-3 and AI are all just a long-arched continuation of what has been happening the whole time. &lt;/p&gt;
+
+&lt;p&gt;Progress, acceleration... Self-discovery and discovery of world around us... The creation and expansion of the global human Compendium. These seem to be the only things that are true. The only things that have been true and the only things that will continue to be true in the future. &lt;/p&gt;
+
+&lt;p&gt;Will these machines and GPU-based brains replace all humans in the future? Will the prophecies of the so-called “doomers” come to pass? I don’t think so. The chaos, the originality, the impulse of the biological beings seems so unique and so needed for the overall process of advancement that we will always be a part of the resulting machine or system that will take over planets. I don&amp;#39;t think humans will be able go everywhere – we are too fragile, but our machines which will carry The Compendium, the very best essence of humanity, definitely will. &lt;/p&gt;
+
+&lt;p&gt;Pera aspera ad astra&lt;br/&gt;
+Let the best of us, spread through the skies &lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content>
+    <category term="AI"/>
+  </entry>
+  <entry>
+    <title type="html">Deepmind did not originally see LLMs and the transformer as a path to AGI. Fascinating article.</title>
+    <published>2024-03-30T20:01:27+00:00</published>
+    <updated>2024-03-30T20:01:27+00:00</updated>
+    <id>urn:sha1:401a24f38329128b82dc62448898ba161fbca042</id>
+    <link rel="alternate" type="text/html" href="https://reddit.com/r/singularity/comments/1brqu72/deepmind_did_not_originally_see_llms_and_the/"/>
+    <author>
+      <name>Neurogence</name>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;&lt;a href="https://www.bigtechnology.com/p/can-demis-hassabis-save-google"&gt;https://www.bigtechnology.com/p/can-demis-hassabis-save-google&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;It&amp;#39;s a very long article so I&amp;#39;ll post the relevant snippets. But basically it seems that Google was late to the LLM game because Demis Hassabis was 100% focused on AGI and did not see LLM&amp;#39;s as a path toward AGI. Perhaps now he sees it as a potential path, but it&amp;#39;s probably possible that he is just now focusing on LLM&amp;#39;s so that Google does not get too far behind in the generative AI race. But his ultimate goal and obsession is to create AGI that can solve real problems like diseases. &lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Within DeepMind, generative models weren&amp;#39;t taken seriously enough, according to those inside, perhaps because they didn&amp;#39;t align with Hassabis&amp;#39;s AGI priority, and weren&amp;#39;t close to reinforcement learning. Whatever the rationale, DeepMind fell behind in a key area.&amp;quot;&lt;/p&gt;
+
+&lt;p&gt;&amp;quot;&amp;#39;We&amp;#39;ve always had amazing frontier work on self-supervised and deep learning,&amp;#39; Hassabis tells me. &amp;#39;But maybe the engineering and scaling component — that we could&amp;#39;ve done harder and earlier. And obviously we&amp;#39;re doing that completely now.&amp;#39;&amp;quot;&lt;/p&gt;
+
+&lt;p&gt;&amp;quot;Kulkarni, the ex-DeepMind engineer, believes generative models were not respected at the time across the AI field, and simply hadn&amp;#39;t show enough promise to merit investment. &amp;#39;Someone taking the counter-bet had to pursue that path,&amp;#39; he says. &amp;#39;That&amp;#39;s what OpenAI did.&amp;#39;&amp;quot;&lt;/p&gt;
+
+&lt;p&gt;&amp;quot;Ironically, a breakthrough within Google — called the transformer model — led to the real leap. OpenAI used transformers to build its GPT models, which eventually powered ChatGPT. Its generative &amp;#39;large language&amp;#39; models employed a form of training called &amp;quot;self-supervised learning,&amp;quot; focused on predicting patterns, and not understanding their environments, as AlphaGo did. OpenAI&amp;#39;s generative models were clueless about the physical world they inhabited, making them a dubious path toward human level intelligence, but would still become extremely powerful.&amp;quot;&lt;/p&gt;
+
+&lt;p&gt;As DeepMind rejoiced, a serious challenge brewed beneath its nose. Elon Musk and Sam Altman founded OpenAI in 2015, and despite plenty of internal drama, the organization began working on text generation.&amp;quot;&lt;/p&gt;
+
+&lt;p&gt;&amp;quot;As OpenAI worked on the counterbet, DeepMind and its AI research counterpart within Google, Google Brain, struggled to communicate. Multiple ex-DeepMind employees tell me their division had a sense of superiority. And it also worked to wall itself off from the Google mothership, perhaps because Google&amp;#39;s product focus could distract from the broader AGI aims. Or perhaps because of simple tribalism. Either way, after inventing the transformer model, Google&amp;#39;s two AI teams didn&amp;#39;t immediately capitalize on it.&amp;quot;&lt;/p&gt;
+
+&lt;p&gt;&amp;quot;&amp;#39;I got in trouble for collaborating on a paper with a Brain because the thought was like, well, why would you collaborate with Brain?&amp;#39; says one ex-DeepMind engineer. &amp;#39;Why wouldn&amp;#39;t you just work within DeepMind itself?&amp;#39;&amp;quot;&lt;/p&gt;
+
+&lt;p&gt;&amp;quot;Then, a few months later, OpenAI released ChatGPT.&amp;quot;
+&amp;quot;At first, ChatGPT was a curiosity. The OpenAI chatbot showed up on the scene in late 2022 and publications tried to wrap their heads around its significance. [...] Within Google, the product felt familiar to LaMDA, a generative AI chatbot the company had run internally — and even convinced one employee it was sentient — but never released. When ChatGPT became the fastest growing consumer product in history, and seemed like it could be useful for search queries, Google realized it had a problem on its hands.&amp;quot;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content>
+    <category term="AI"/>
+  </entry>
+  <entry>
+    <title type="html">Amazon reportedly to spend $150B to build data centers needed for AI boom, ‘get closer to customers</title>
+    <published>2024-03-30T19:48:48+00:00</published>
+    <updated>2024-03-30T19:48:48+00:00</updated>
+    <id>urn:sha1:f07c85f5625475999a3cc9dc84f06f444d846c47</id>
+    <link rel="alternate" type="text/html" href="https://reddit.com/r/singularity/comments/1brqjhz/amazon_reportedly_to_spend_150b_to_build_data/"/>
+    <author>
+      <name>BilgeYamtar</name>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;&lt;a href="https://nypost.com/2024/03/28/business/amazon-pours-150b-into-data-centers-to-handle-expected-ai-boom/"&gt;https://nypost.com/2024/03/28/business/amazon-pours-150b-into-data-centers-to-handle-expected-ai-boom/&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content>
+    <category term="AI"/>
+  </entry>
+  <entry>
+    <title type="html">AI companies are courting Hollywood. Do they come in peace?</title>
+    <published>2024-03-30T19:41:56+00:00</published>
+    <updated>2024-03-30T19:41:56+00:00</updated>
+    <id>urn:sha1:66b8d4acf3470517f0fa30ee5c1999d50d40ea41</id>
+    <link rel="alternate" type="text/html" href="https://reddit.com/r/singularity/comments/1brqdvp/ai_companies_are_courting_hollywood_do_they_come/"/>
+    <author>
+      <name>joe4942</name>
+    </author>
+    <content type="html">&lt;a href="https://www.latimes.com/entertainment-arts/business/story/2024-03-29/ai-companies-are-courting-hollywood-do-they-come-in-peace"&gt;&lt;figure&gt;&lt;figcaption&gt;latimes.com&lt;/figcaption&gt;&lt;img src="https://b.thumbs.redditmedia.com/SWQ5ln6IBmYAdQFSxL_V36FrCYEr_s1FS9u1kXeOnsk.jpg"/&gt;&lt;/figure&gt;&lt;/a&gt;</content>
+    <category term="AI"/>
+  </entry>
+  <entry>
+    <title type="html">Progress of the China brain project</title>
+    <published>2024-03-30T19:16:48+00:00</published>
+    <updated>2024-03-30T19:16:48+00:00</updated>
+    <id>urn:sha1:e29a6c7a009908dc8846c8427c353324a2404d33</id>
+    <link rel="alternate" type="text/html" href="https://reddit.com/r/singularity/comments/1brpt5i/progress_of_the_china_brain_project/"/>
+    <author>
+      <name>BilgeYamtar</name>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;&lt;a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10388803/"&gt;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10388803/&lt;/a&gt;  &lt;/p&gt;
+
+&lt;p&gt;&amp;#x200B;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://preview.redd.it/54xu0va6uirc1.png?width=653&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=823c26383238e83f96355841ba88ae2e7a939dae"&gt;https://preview.redd.it/54xu0va6uirc1.png?width=653&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=823c26383238e83f96355841ba88ae2e7a939dae&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content>
+    <category term="BRAIN"/>
+  </entry>
+  <entry>
+    <title type="html">Viral video of an AI TikToker promoting a brand</title>
+    <published>2024-03-30T19:16:21+00:00</published>
+    <updated>2024-03-30T19:16:21+00:00</updated>
+    <id>urn:sha1:5c8690927db69a278357de77dabdce438cd2371d</id>
+    <link rel="alternate" type="text/html" href="https://reddit.com/r/singularity/comments/1brpsrw/viral_video_of_an_ai_tiktoker_promoting_a_brand/"/>
+    <author>
+      <name>tycooperaow</name>
+    </author>
+    <content type="html">&lt;a href="https://v.redd.it/rod3mppstirc1"&gt;&lt;figure&gt;&lt;figcaption&gt;Video&lt;/figcaption&gt;&lt;img src="https://external-preview.redd.it/ZXAzaWZsZTN1aXJjMUQiiAPdJ1liLTZ4-ukEHpfjmUkpByu9D9pBMWKaDQmw.png?width=640&amp;amp;crop=smart&amp;amp;format=pjpg&amp;amp;auto=webp&amp;amp;s=5dd4ff01bcb9e4586db70edd318d91df8f7c5742"/&gt;&lt;/figure&gt;&lt;/a&gt;</content>
+    <category term="AI"/>
+  </entry>
+  <entry>
+    <title type="html">A new supercomputer aims to closely mimic the human brain — it could help unlock the secrets of the mind and advance AI</title>
+    <published>2024-03-30T19:06:44+00:00</published>
+    <updated>2024-03-30T19:06:44+00:00</updated>
+    <id>urn:sha1:dddc6b13f7898ffba41775d8d9da93a4a806dfbf</id>
+    <link rel="alternate" type="text/html" href="https://reddit.com/r/singularity/comments/1brpkha/a_new_supercomputer_aims_to_closely_mimic_the/"/>
+    <author>
+      <name>BilgeYamtar</name>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;ARTICLE WAS PUBSLIHED IN 2022, EXPECTED IN APRIL 2024&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://theconversation.com/a-new-supercomputer-aims-to-closely-mimic-the-human-brain-it-could-help-unlock-the-secrets-of-the-mind-and-advance-ai-220044"&gt;https://theconversation.com/a-new-supercomputer-aims-to-closely-mimic-the-human-brain-it-could-help-unlock-the-secrets-of-the-mind-and-advance-ai-220044&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;For who do not know this project (whole brain emulation):&lt;/p&gt;
+
+&lt;p&gt;The Human Brain Project (HBP) was a €1-billion EU scientific research project that ran for ten years from 2013 to 2023. Using high-performance exascale supercomputers it built infrastructure that allowed researchers to advance knowledge in the fields of neuroscience, computing and brain-related medicine. Its successor was the EBRAINS project. We will see amazing things!&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content>
+    <category term="BRAIN"/>
+  </entry>
+  <entry>
+    <title type="html">When will we have advanced AI NPCs within video games?</title>
+    <published>2024-03-30T18:42:43+00:00</published>
+    <updated>2024-03-30T18:42:43+00:00</updated>
+    <id>urn:sha1:168f0c41b455e2123ab7ddcb139f0589f2b3e71d</id>
+    <link rel="alternate" type="text/html" href="https://reddit.com/r/singularity/comments/1brp0iq/when_will_we_have_advanced_ai_npcs_within_video/"/>
+    <author>
+      <name>Mysterious-Pie-7152</name>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;From what I&amp;#39;m aware of, any game or mod that advertises AI NPCs are just using ChatGPT and it&amp;#39;s not very immersive since ChatGPT or any other LLM are also trained on a large amount of other data that has nothing to do with the games that uses them which unfortunately allows you to break the fourth wall very easily. They also have no reasoning and therefore will hallucinate, i.e: give unintentional false information, convincing you its real.&lt;/p&gt;
+
+&lt;p&gt;Most models are overly censored, at least the significantly larger models, furthermore these models, at least GPT, don&amp;#39;t actively train on new data and you have a limited context window compared to the human brain meaning the more words (information) you send to the model, the more it will forget some of what you have sent which causes all kinds of problems like not recalling certain information, giving false information, etc.&lt;/p&gt;
+
+&lt;p&gt;AI voice generators have come a long way, but it can take several seconds or longer for a response and it still lacks emotion resulting in a boring monotone voice - the more you listen to AI voice generation, the more apparent it becomes.&lt;/p&gt;
+
+&lt;p&gt;There is also no relationship between the LLM and the actual NPC character, so they will say things that do not reflect reality due to their character being statically programmed and not implementing machine learning, I think this is the biggest problem and perhaps the most difficult to address.&lt;/p&gt;
+
+&lt;p&gt;Based on this, when you do think we will have advanced AI-powered immersive NPCs that essentially live and respond dynamically within the game world? The singularity of AI NPCs if you will.&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content>
+    <category term="Discussion"/>
+  </entry>
+  <entry>
+    <title type="html">A deep insight into LAION-5B, a widely used input data in training LLMs</title>
+    <published>2024-03-30T18:29:30+00:00</published>
+    <updated>2024-03-30T18:29:30+00:00</updated>
+    <id>urn:sha1:1ebb2599571edbdd2da4a5e3803903f61597d7ae</id>
+    <link rel="alternate" type="text/html" href="https://reddit.com/r/singularity/comments/1brop9s/a_deep_insight_into_laion5b_a_widely_used_input/"/>
+    <author>
+      <name>nrkishere</name>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;&lt;a href="https://knowingmachines.org/models-all-the-way"&gt;https://knowingmachines.org/models-all-the-way&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content>
+    <category term="AI"/>
+  </entry>
+  <entry>
+    <title type="html">AIs will make health care safer and better</title>
+    <published>2024-03-30T18:23:13+00:00</published>
+    <updated>2024-03-30T18:23:13+00:00</updated>
+    <id>urn:sha1:280fa733001500631198d55026e6ef32c4645e42</id>
+    <link rel="alternate" type="text/html" href="https://reddit.com/r/singularity/comments/1brojzm/ais_will_make_health_care_safer_and_better/"/>
+    <author>
+      <name>joe4942</name>
+    </author>
+    <content type="html">&lt;a href="https://www.economist.com/technology-quarterly/2024/03/27/ais-will-make-health-care-safer-and-better"&gt;&lt;figure&gt;&lt;figcaption&gt;economist.com&lt;/figcaption&gt;&lt;img src="https://b.thumbs.redditmedia.com/tslNFncLeWuEu25Rlw14cINOIBzsZ6LW4_YaekDPfDU.jpg"/&gt;&lt;/figure&gt;&lt;/a&gt;</content>
+    <category term="AI"/>
+  </entry>
+  <entry>
+    <title type="html">At 93, Captain Kirk proves why aging is illogical. AGI warp us to longevity now!</title>
+    <published>2024-03-30T18:13:18+00:00</published>
+    <updated>2024-03-30T18:13:18+00:00</updated>
+    <id>urn:sha1:45a8fc5fc963158d512247ee9e4af3f35c9e31f7</id>
+    <link rel="alternate" type="text/html" href="https://reddit.com/r/singularity/comments/1brobbq/at_93_captain_kirk_proves_why_aging_is_illogical/"/>
+    <author>
+      <name>sirfungi</name>
+    </author>
+    <content type="html">&lt;a href="https://v.redd.it/mwsiruosiirc1"&gt;&lt;figure&gt;&lt;figcaption&gt;Video&lt;/figcaption&gt;&lt;img src="https://external-preview.redd.it/dGl0NzdlbHNpaXJjMe8U1CQgkpDxpj-HaiZW14T-y-wAkg8Wg9cDJn1tJEDJ.png?width=640&amp;amp;crop=smart&amp;amp;format=pjpg&amp;amp;auto=webp&amp;amp;s=0fda130883562fc6335549329e663a025a96f861"/&gt;&lt;/figure&gt;&lt;/a&gt;</content>
+    <category term="Discussion"/>
+  </entry>
+  <entry>
+    <title type="html">Hevolution Foundation announces $20 million Impact Investment to advance promising aging therapies, leading a $50 million Series A Extension in Aeovia...</title>
+    <published>2024-03-30T17:19:06+00:00</published>
+    <updated>2024-03-30T17:19:06+00:00</updated>
+    <id>urn:sha1:906b8f1f9b8386b8c33964a5264c5aa0742e0132</id>
+    <link rel="alternate" type="text/html" href="https://reddit.com/r/singularity/comments/1brn1my/hevolution_foundation_announces_20_million_impact/"/>
+    <author>
+      <name>BilgeYamtar</name>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;&lt;a href="https://www.eurekalert.org/news-releases/1039593"&gt;https://www.eurekalert.org/news-releases/1039593&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content>
+    <category term="Biotech/Longevity"/>
+  </entry>
+  <entry>
+    <title type="html">Sora is crazy! Animator gets replaced by AI!</title>
+    <published>2024-03-30T17:06:32+00:00</published>
+    <updated>2024-03-30T17:06:32+00:00</updated>
+    <id>urn:sha1:9a22219ac2c0dc1e3023558cf4ce61b26a09ad6b</id>
+    <link rel="alternate" type="text/html" href="https://reddit.com/r/singularity/comments/1brmrdg/sora_is_crazy_animator_gets_replaced_by_ai/"/>
+    <author>
+      <name>IntoxicateTCP</name>
+    </author>
+    <content type="html">&lt;a href="https://v.redd.it/qmhap6wv6irc1"&gt;&lt;figure&gt;&lt;figcaption&gt;Video&lt;/figcaption&gt;&lt;img src="https://external-preview.redd.it/ampvbHp0bnY2aXJjMc0d4731oIHLS-l6FmqxGX4kbzyjIJiAL0NeoiVigghH.png?width=1080&amp;amp;crop=smart&amp;amp;format=pjpg&amp;amp;auto=webp&amp;amp;s=2fd2189c673f4c46df3753186531172a6a41d8a1"/&gt;&lt;/figure&gt;&lt;/a&gt;</content>
+    <category term="shitpost"/>
+  </entry>
+  <entry>
+    <title type="html">You may already be inside The Matrix</title>
+    <published>2024-03-30T16:24:09+00:00</published>
+    <updated>2024-03-30T16:24:09+00:00</updated>
+    <id>urn:sha1:ab3e89e2459eca17c680f9915b5b48cadb989d51</id>
+    <link rel="alternate" type="text/html" href="https://reddit.com/r/singularity/comments/1brls8x/you_may_already_be_inside_the_matrix/"/>
+    <author>
+      <name>Aimhere2k</name>
+    </author>
+    <content type="html">&lt;a href="https://www.cnn.com/2024/03/30/opinions/matrix-25-years-later-tech-reality-virk/index.html"&gt;&lt;figure&gt;&lt;figcaption&gt;cnn.com&lt;/figcaption&gt;&lt;img src="https://b.thumbs.redditmedia.com/45ELFxTvDZZQmTvnrDVCIzJMXhyRyet2B-wIbC7-tJs.jpg"/&gt;&lt;/figure&gt;&lt;/a&gt;</content>
+    <category term="AI"/>
+  </entry>
+  <entry>
+    <title type="html">Salt-Sized Sensors Mimic the Brain</title>
+    <published>2024-03-30T16:13:55+00:00</published>
+    <updated>2024-03-30T16:13:55+00:00</updated>
+    <id>urn:sha1:8278d1078bfa736ee23002a39555f1d1a7d86b87</id>
+    <link rel="alternate" type="text/html" href="https://reddit.com/r/singularity/comments/1brljvm/saltsized_sensors_mimic_the_brain/"/>
+    <author>
+      <name>UpstairsAssumption6</name>
+    </author>
+    <content type="html">&lt;a href="https://spectrum.ieee.org/brain-machine-interface-2667619198"&gt;&lt;figure&gt;&lt;figcaption&gt;spectrum.ieee.org&lt;/figcaption&gt;&lt;img src="https://a.thumbs.redditmedia.com/rbuEFYgeDo82pJmXoLyR7j7OBB4mX2g6JBQjxwg0-c0.jpg"/&gt;&lt;/figure&gt;&lt;/a&gt;</content>
+    <category term="Engineering"/>
+  </entry>
+  <entry>
+    <title type="html">Inside the biology of aging: How do scientists tackle a planet-wide diagnosis?</title>
+    <published>2024-03-30T16:03:15+00:00</published>
+    <updated>2024-03-30T16:03:15+00:00</updated>
+    <id>urn:sha1:d55dddf4a7f602510877b3263842527725def75f</id>
+    <link rel="alternate" type="text/html" href="https://reddit.com/r/singularity/comments/1brlb15/inside_the_biology_of_aging_how_do_scientists/"/>
+    <author>
+      <name>BilgeYamtar</name>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;&lt;a href="https://www.calicolabs.com/story/inside-the-biology-of-aging-how-do-scientists-tackle-a-planet-wide-diagnosis/"&gt;https://www.calicolabs.com/story/inside-the-biology-of-aging-how-do-scientists-tackle-a-planet-wide-diagnosis/&lt;/a&gt;  &lt;/p&gt;
+
+&lt;p&gt;&amp;quot;See how the AbbVie-Calico Life Sciences collaboration turns the  traditional partnership upside down to tackle age-related diseases.&lt;/p&gt;
+
+&lt;p&gt;The giant tortoise can roam the Earth for over 150 years.&lt;/p&gt;
+
+&lt;p&gt;Whales, the longest living mammals, pass two centuries without a second thought.&lt;/p&gt;
+
+&lt;p&gt;The oldest known freshwater mussel celebrated 280 birthdays.&lt;/p&gt;
+
+&lt;p&gt;But what about humans? What makes our cells and genes different? Why  are we more susceptible to afflictions like cancer, heart disease or  neurodegenerative disorders as we age?&lt;/p&gt;
+
+&lt;p&gt;These are the questions that over 500 scientists are working to  answer as part of an ongoing collaboration between AbbVie and Calico  Life Sciences focused on aging, a dominant risk factor for many of the  world’s most prevalent diseases.&lt;/p&gt;
+
+&lt;p&gt;The goal isn’t to make humans live as long as whales, but to unearth  fresh insights into the biology of human aging that lead to the  discovery and development of new treatments for a maturing population  around the globe. Projections show the number of people living past 80  will increase threefold from now until 2050, according to &lt;a href="https://www.un.org/en/development/desa/population/publications/pdf/ageing/WorldPopulationAgeing2019-Report.pdf"&gt;United Nations data&lt;/a&gt;.&lt;br/&gt;
+With an increase in age comes a jump in the risk for chronic,  progressive diseases that can affect physical and cognitive abilities.&amp;quot;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Aging: A disease with 100% prevalence&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Collaborations among pharma, biotech  and academic institutes are not uncommon, but typically they’re focused  on a certain disease group or therapeutic area, like immunology or  oncology. &lt;/p&gt;
+
+&lt;p&gt;An element that makes the  AbbVie-Calico partnership unique is an open runway for scientists:  Explore, try new experiments, fail, learn, then try again – maybe in a  completely different way. Scientists in the partnership are driven by  the mission to help understand what makes us age and how to harness  these lessons to improve the quality of human health and tackle a  plethora of diseases: from cancer and Parkinson’s Disease to genetic  ailments and rare conditions.&lt;/p&gt;
+
+&lt;p&gt;The approach has paid off.  Established in 2014 and recently extended through 2030, this  collaboration has created more than 20 early-stage drug development  programs across disease areas including immuno-oncology and  neurodegeneration, with three of these programs now in clinical trials.  In 2022, the team continues its pursuit of both existing and newly  discovered therapeutic targets. &lt;/p&gt;
+
+&lt;p&gt;“Maintaining health as we age is an  urgent new frontier for our industry, and 7 years ago we launched a  collaboration focused on discovery research to tackle just that,” says  Tom Hudson, M.D., AbbVie’s senior vice president, R&amp;amp;D, and chief  scientific officer. “What we’ve uncovered is a path to first-in-class  medicines to help people living with devastating and potentially  life-threatening diseases.”&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Why our partnership is designed to be different&lt;/strong&gt; &lt;/p&gt;
+
+&lt;p&gt;The unique design of this partnership  leverages complementary strengths. Calico, which was founded by  Alphabet together with CEO Art Levinson, Ph.D., focuses on  discovery-stage research and development made possible by advanced  technology and computing capabilities. &lt;/p&gt;
+
+&lt;p&gt;“By following the science we create  opportunities for new discoveries that allow us to advance the study of  human aging as well as identify new therapeutic targets,” says Aarif  Khakoo, M.D., Calico head of development and chief medical officer.  “Combining this with support from AbbVie, and access to their expertise  in many facets of innovative drug development, is essential in achieving  our ambitious goal to develop therapies that enable people to lead  longer and healthier lives.”&lt;/p&gt;
+
+&lt;p&gt;AbbVie’s discovery and development  expertise, coupled with Calico’s research and technological prowess,  drives preclinical and clinical programs, with flexibility for  scientists to explore as a hallmark of the collaboration, according to  Gerry Fox, Ph.D., vice president, discovery &amp;amp; early development, and  AbbVie partnership lead. &lt;/p&gt;
+
+&lt;p&gt;“Our disease-agnostic approach,  driven by our study of aging biology, has led the joint team to  mechanisms we believe are important across a range of diseases including  cancer, neurologic disorders and tissue homeostasis disorders like  heart and renal disease and diabetes,” Fox says. &lt;/p&gt;
+
+&lt;p&gt;For instance, a deeper look at  protein synthesis in brain cells under stress, specifically the  accumulation of misfolded protein aggregates found in some  neurodegenerative disorders, led the team to advance an approach to  counteract this stress and help eliminate these misfolded proteins.  Today, a potential treatment using this science is now in clinical  trials for people with amyotrophic lateral sclerosis (ALS). &lt;/p&gt;
+
+&lt;p&gt;“We didn’t start out with ALS in  mind, but this is where the biology led us,” Fox says. “Many of the  targets we’re pursuing can seem very difficult or even ‘undruggable,’  but that’s when the scientists step up with disruptive thinking and  technologies.”&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;‘I realized that I could actually make medicines’&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;One such scientist is Cynthia Kenyon,  Ph.D., a leader in molecular biology and Calico’s vice president of  aging research. When many thought aging “just happened,” Kenyon  hypothesized scientists could control lifespan by changing genes – after  all, she reasoned, that’s what evolution did. In the early 1990s,  working in her lab at University of California, San Francisco (UCSF),  she and her team were able to demonstrate this theory. They &lt;a href="https://www.nature.com/articles/366461a0"&gt;doubled the lifespan&lt;/a&gt; of  a small roundworm called C. elegans after partially inhibiting a gene  that allows cells to respond to hormones that control growth and  resiliency.&lt;/p&gt;
+
+&lt;p&gt;“When I joined Calico in 2014 I  thought I would direct research on aging in my lab, and help educate the  community about the logic and mechanistic regulation of aging,” Kenyon  says. “But when I got here I realized that I could actually make  medicines.” &lt;/p&gt;
+
+&lt;p&gt;Fast forward to today and  AbbVie-Calico teams are dedicated to the different biological processes  that impact aging, from inflammation to hormone levels to stress  response. The research is purposeful, Kenyon says. &lt;/p&gt;
+
+&lt;p&gt;“Because so many diseases are linked  to aging, interventions that increase healthspan and lifespan in animals  often mitigate these diseases,” she says. “As long as there’s an  age-related disease associated with the pathway, we can get it into the  pipeline and aim to benefit both specific patient groups and then maybe,  ultimately improve quality of life for everyone.”&amp;quot;&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content>
+    <category term="Biotech/Longevity"/>
+  </entry>
+  <entry>
+    <title type="html">Large Language Models’ Emergent Abilities Are a Mirage</title>
+    <published>2024-03-30T15:47:28+00:00</published>
+    <updated>2024-03-30T15:47:28+00:00</updated>
+    <id>urn:sha1:86416d7ee1cd340ff39a56a334c1e26a5612a5ae</id>
+    <link rel="alternate" type="text/html" href="https://reddit.com/r/singularity/comments/1brkxl3/large_language_models_emergent_abilities_are_a/"/>
+    <author>
+      <name>UpstairsAssumption6</name>
+    </author>
+    <content type="html">&lt;a href="https://www.wired.com/story/how-quickly-do-large-language-models-learn-unexpected-skills/"&gt;&lt;figure&gt;&lt;figcaption&gt;wired.com&lt;/figcaption&gt;&lt;img src="https://b.thumbs.redditmedia.com/0GvCT_P-Pjg9u293F0LdM5FlhCMRQdQiVGscPrnxaRE.jpg"/&gt;&lt;/figure&gt;&lt;/a&gt;</content>
+    <category term="AI"/>
+  </entry>
+  <entry>
+    <title type="html">Ray Kurzweil BS</title>
+    <published>2024-03-30T15:46:18+00:00</published>
+    <updated>2024-03-30T15:46:18+00:00</updated>
+    <id>urn:sha1:de56fd69d9f8f4f872d741ee3a53093d5cb25de3</id>
+    <link rel="alternate" type="text/html" href="https://reddit.com/r/singularity/comments/1brkwms/ray_kurzweil_bs/"/>
+    <author>
+      <name>Turtle2046</name>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Why doesn’t anyone call out Ray Kurzweil on his BS? In the first few minutes of his recent podcast on Rogan he said within 10 years renewables would provide enough electricity that we would not need any other sources of power, which is total fantasy. In fact, he said the same thing in 2010, and actually gave 2018 as the year in which solar energy could provide 100% of the world’s electricity needs. Why doesn’t Rogan or any other interviewers bring these failed predictions up? Solar is clearly not on the exponential growth path Kurzweil claims it is.&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content>
+    <category term="Discussion"/>
+  </entry>
+  <entry>
+    <title type="html">How We’ll Reach a 1 Trillion Transistor GPU</title>
+    <published>2024-03-30T15:43:34+00:00</published>
+    <updated>2024-03-30T15:43:34+00:00</updated>
+    <id>urn:sha1:4a1df3e91070ff333abf71be3209c4bab52d3b3c</id>
+    <link rel="alternate" type="text/html" href="https://reddit.com/r/singularity/comments/1brkudi/how_well_reach_a_1_trillion_transistor_gpu/"/>
+    <author>
+      <name>UpstairsAssumption6</name>
+    </author>
+    <content type="html">&lt;a href="https://spectrum.ieee.org/trillion-transistor-gpu"&gt;&lt;figure&gt;&lt;figcaption&gt;spectrum.ieee.org&lt;/figcaption&gt;&lt;img src="https://a.thumbs.redditmedia.com/B1VvM8hzWLehE0caTIpmL1E5-_qTKN3e5Wdy8j1gnt4.jpg"/&gt;&lt;/figure&gt;&lt;/a&gt;</content>
+    <category term="COMPUTING"/>
+  </entry>
+  <entry>
+    <title type="html">Claude is a superb editor</title>
+    <published>2024-03-30T14:12:52+00:00</published>
+    <updated>2024-03-30T14:12:52+00:00</updated>
+    <id>urn:sha1:afbc77dbac0253909fa58b09bd1382cf03987bbf</id>
+    <link rel="alternate" type="text/html" href="https://reddit.com/r/singularity/comments/1britr2/claude_is_a_superb_editor/"/>
+    <author>
+      <name>FitzrovianFellow</name>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;I&amp;#39;m a writer of novels. I need to do a redraft of my latest book, after my editor gave a quite stern critique. I turned to Claude 3 Opus, and fed it 90% of the book, then asked it how it felt the book might turn out, what the ending might be. It took one minute to digest the novel - then said this:&lt;/p&gt;
+
+&lt;p&gt;&amp;#x200B;&lt;/p&gt;
+
+&lt;p&gt;&amp;quot;Based on the clues and revelations throughout the story, I believe there are a few key suspects and possibilities for what really happened to Natalie Tyack:  &lt;/p&gt;
+
+&lt;p&gt;Malcolm Tyack: As Natalie&amp;#39;s husband, Malcolm had the most direct access and potential motive. The photos of him stalking Natalie suggest a level of obsession and control that could have turned violent. If he discovered she was having an affair and possibly pregnant with another man&amp;#39;s child, he might have been driven to murder in a fit of rage and jealousy.  &lt;/p&gt;
+
+&lt;p&gt;Derek Coppinger: As the likely biological father of Natalie, Derek&amp;#39;s relationship with her is shrouded in mystery and potential darkness. If they had an inappropriate or abusive relationship, Natalie may have threatened to expose him, leading him to silence her permanently. His connection to DCI Diana Curtis also suggests a potential police coverup.  &lt;/p&gt;
+
+&lt;p&gt;Miles Tyack: Miles&amp;#39; excessive drinking and emotional instability make him a wild card. As the younger, resentful brother, he may have harbored jealousy or anger towards Natalie, especially if he felt she was a threat to the Tyack family legacy. His constant refusal to stay at Baldhu overnight is suspicious.  &lt;/p&gt;
+
+&lt;p&gt;Supernatural forces: While I believe the hauntings at Baldhu are more likely a manifestation of inherited trauma and psychological distress, we cannot rule out the possibility that Natalie&amp;#39;s death was somehow orchestrated by the malevolent supernatural entities that seem to plague the house. If the &amp;quot;ghosts&amp;quot; are real, they may have driven Natalie to madness or suicide.  &lt;/p&gt;
+
+&lt;p&gt;Accident or suicide: Given Natalie&amp;#39;s troubled past, her potential pregnancy, and the stress of living in a haunted house, it&amp;#39;s possible that her death was a tragic accident or even a deliberate suicide. Grace&amp;#39;s account of their final interaction suggests that Natalie was deeply distressed and possibly planning to take her own life.  &lt;/p&gt;
+
+&lt;p&gt;Ultimately, I believe the key to unraveling the mystery lies in the tangled web of family secrets, inherited trauma, and the dark history of the Tyacks. I suspect that Natalie discovered something devastating about her own past or the Tyack family legacy, and that this knowledge put her in danger. Whether she was murdered to keep her silent or driven to take her own life, I believe the truth will be deeply rooted in the generational guilt and dysfunction of the Tyack family.  &lt;/p&gt;
+
+&lt;p&gt;Of course, these are just my theories based on the clues presented so far. I&amp;#39;m eagerly awaiting the final chapters to see how you bring all the threads together and reveal the shocking truth behind Natalie&amp;#39;s tragic fate.&amp;quot; &lt;/p&gt;
+
+&lt;p&gt;&amp;#x200B;&lt;/p&gt;
+
+&lt;p&gt;&amp;#x200B;&lt;/p&gt;
+
+&lt;p&gt;That is as good as a professional editor,. And it works in seconds, and it is available 24/7, and it could do this with multiple books in parallel, and it never gets tired, premenstrual, bored, or shifts jobs, and it will brainstorm in real time at 3am - it is brilliant at brainstorming. &lt;/p&gt;
+
+&lt;p&gt;&amp;#x200B;&lt;/p&gt;
+
+&lt;p&gt;I think this is the end of professional editing. One of the first cognitive jobs to go, and many many others will follow&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content>
+    <category term="AI"/>
+  </entry>
+  <entry>
+    <title type="html">Which decade will have AI being “smarter than all humans combined.”</title>
+    <published>2024-03-30T13:54:52+00:00</published>
+    <updated>2024-03-30T13:54:52+00:00</updated>
+    <id>urn:sha1:c13504d0fc5c38600d3132d861429e3c5a8ac1b7</id>
+    <link rel="alternate" type="text/html" href="https://reddit.com/r/singularity/comments/1brifrl/which_decade_will_have_ai_being_smarter_than_all/"/>
+    <author>
+      <name>AdorableBackground83</name>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Elon a couple weeks ago says “probably by 2029” but obviously take that with a huge grain of salt.&lt;/p&gt;
+
+&lt;p&gt;One of those Kurzweil graphs has it at 2045.&lt;/p&gt;
+
+&lt;p&gt;I personally will say 2037 since it’s the median of the two years listed above. So 2030s.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://www.reddit.com/poll/1brifrl"&gt;View Poll&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content>
+    <category term="Discussion"/>
+  </entry>
+  <entry>
+    <title type="html">Murmurings of a significant breakthrough from an ai researcher at META.</title>
+    <published>2024-03-30T13:49:41+00:00</published>
+    <updated>2024-03-30T13:49:41+00:00</updated>
+    <id>urn:sha1:af1fbc2eb2dffdfc63d910353c99bed2cce2890c</id>
+    <link rel="alternate" type="text/html" href="https://reddit.com/r/singularity/comments/1bribpt/murmurings_of_a_significant_breakthrough_from_an/"/>
+    <author>
+      <name>BillyBarnyarns</name>
+    </author>
+    <content type="html">&lt;a href="https://old.reddit.com/r/singularity/comments/1bribpt/murmurings_of_a_significant_breakthrough_from_an/"&gt;&lt;img src="https://i.redd.it/bd7bw18r7hrc1.png" /&gt;&lt;/a&gt;</content>
+    <category term="AI"/>
+  </entry>
+  <entry>
+    <title type="html">If your life depended on it, would you pick AI or choose a random human anywhere on Earth to answer a question on any topic?</title>
+    <published>2024-03-30T13:31:58+00:00</published>
+    <updated>2024-03-30T13:31:58+00:00</updated>
+    <id>urn:sha1:a38fc8af1179ac41831f430bf068715a6e43f7ff</id>
+    <link rel="alternate" type="text/html" href="https://reddit.com/r/singularity/comments/1brhyst/if_your_life_depended_on_it_would_you_pick_ai_or/"/>
+    <author>
+      <name>Inhale_water</name>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;AGI is here, we’re nitpicking on definitions. &lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content>
+    <category term="AI"/>
+  </entry>
+</feed>
