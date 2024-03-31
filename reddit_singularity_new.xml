@@ -6,10 +6,22 @@
   <icon>https://www.redditstatic.com/desktop2x/img/favicon/favicon-96x96.png</icon>
   <logo>https://www.redditstatic.com/desktop2x/img/favicon/favicon-96x96.png</logo>
   <id>http://192.168.1.200:3001/?action=display&amp;bridge=RedditBridge&amp;context=single&amp;r=singularity&amp;f=&amp;score=&amp;d=new&amp;search=&amp;frontend=https%3A%2F%2Freddit.com&amp;format=Atom</id>
-  <updated>2024-03-30T23:28:40+00:00</updated>
+  <updated>2024-03-31T00:10:02+00:00</updated>
   <author>
     <name>RSS-Bridge</name>
   </author>
+  <entry>
+    <title type="html">Twisted (AI song)</title>
+    <published>2024-03-30T23:46:54+00:00</published>
+    <updated>2024-03-30T23:46:54+00:00</updated>
+    <id>urn:sha1:c78c27ba214a41debd65279253a06cd136d7789a</id>
+    <link rel="alternate" type="text/html" href="https://reddit.com/r/singularity/comments/1brw2xg/twisted_ai_song/"/>
+    <author>
+      <name>Titan__Uranus</name>
+    </author>
+    <content type="html">&lt;a href="https://v.redd.it/54i0j93c6krc1"&gt;&lt;figure&gt;&lt;figcaption&gt;Video&lt;/figcaption&gt;&lt;img src="https://external-preview.redd.it/eGgzcHczd2Q2a3JjMY_pLe5vrRXn71zyCclqspAowixutAbSJOK4Z5gxa8nh.png?width=320&amp;amp;crop=smart&amp;amp;format=pjpg&amp;amp;auto=webp&amp;amp;s=dd665ad2bf14092e50a0c4b010b830b5d9abb92c"/&gt;&lt;/figure&gt;&lt;/a&gt;</content>
+    <category term="AI"/>
+  </entry>
   <entry>
     <title type="html">Advance this Dance - A Suno AI song about the new Renaissance we find ourselves in</title>
     <published>2024-03-30T23:07:15+00:00</published>
@@ -20,18 +32,6 @@
       <name>Endlesstavernstiktok</name>
     </author>
     <content type="html">&lt;a href="https://youtu.be/hHHsCpJFLl4"&gt;&lt;figure&gt;&lt;figcaption&gt;YouTube&lt;/figcaption&gt;&lt;img src="https://i.ytimg.com/vi/hHHsCpJFLl4/hqdefault.jpg"/&gt;&lt;/figure&gt;&lt;/a&gt;</content>
-    <category term="AI"/>
-  </entry>
-  <entry>
-    <title type="html">Exploitable by Default: Vulnerabilities in GPT-4 APIs</title>
-    <published>2024-03-30T22:50:53+00:00</published>
-    <updated>2024-03-30T22:50:53+00:00</updated>
-    <id>urn:sha1:957a6eeecec9f1cf0c0c6e2965b7b71ad0d92bd4</id>
-    <link rel="alternate" type="text/html" href="https://reddit.com/r/singularity/comments/1brut30/exploitable_by_default_vulnerabilities_in_gpt4/"/>
-    <author>
-      <name>blueSGL</name>
-    </author>
-    <content type="html">&lt;a href="https://www.youtube.com/watch?v=LKyGiVTFhaw"&gt;&lt;figure&gt;&lt;figcaption&gt;YouTube&lt;/figcaption&gt;&lt;img src="https://i.ytimg.com/vi/LKyGiVTFhaw/hqdefault.jpg"/&gt;&lt;/figure&gt;&lt;/a&gt;</content>
     <category term="AI"/>
   </entry>
   <entry>
